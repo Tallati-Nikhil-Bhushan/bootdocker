@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: bootdocker
-        image: bootdocker:latest
+        image: nikhilbhushan/bootdocker:latest
         ports:
         - containerPort: 8071
